@@ -1,0 +1,11 @@
+{
+  "name": "nlw",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Emanuel Gomes",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
